@@ -1,0 +1,11 @@
+{
+  "org": "TimDettmers",
+  "repo": "bitsandbytes",
+  "versions": [
+    {
+      "commit": "833649043474794b8fe7a4136e0c40faf077b2e0",
+      "tag": "continuous-release_main",
+      "parsed_at": "2026-10-17T13:55:10.745818+00:00"
+    }
+  ]
+}
