@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/TimDettmers/bitsandbytes/commit/833649043474794b8fe7a4136e0c40faf077b2e0",
       "git:hexsha": "833649043474794b8fe7a4136e0c40faf077b2e0",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "continuous-release_main"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "continuous-release_main",
+      "repolex:parsedAt": "2026-10-17T13:55:10.745145+00:00"
     },
     {
       "@id": "https://repolex.ai/r/TimDettmers/bitsandbytes/commit/b00cc9137fce41359318741106df92747aa14796",
